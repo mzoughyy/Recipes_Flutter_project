@@ -1,6 +1,6 @@
 # project
 
-A new Flutter project.
+A recipe list flutter app using android studio
 
 ## Getting Started
 
